@@ -16,6 +16,8 @@ Demo
 -------
 Coming Soon!
 
+![Engine Demo](images/engine-demo.gif)
+
 Dependencies
 -------
 This engine runs purely on JavaScript and HTML, with no external dependencies.
