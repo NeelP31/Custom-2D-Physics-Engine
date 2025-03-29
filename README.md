@@ -16,7 +16,8 @@ Demo
 -------
 Coming Soon!
 
-![Engine Demo](images/engine-demo.gif)
+![Physics Engine - Demo](https://github.com/user-attachments/assets/db06285f-545f-4f74-8547-c62d871c5b18)
+
 
 Dependencies
 -------
